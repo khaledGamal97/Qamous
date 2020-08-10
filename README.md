@@ -1,6 +1,8 @@
 # Qamous
 Qamous (to remove the border between us and the deaf) It is an offline mobile application that works as a dictionary to translate from  sign language to natural language (Arabic, English) and vice versa.
 
+<img src="https://user-images.githubusercontent.com/53226036/89793589-55073f80-db26-11ea-8238-afa43d1b629c.png" width=300 height=500>
+
 #The main problem that we are solving?
 The Deaf and Mute people,
 Their world may seem silent but it’s lively, the power of learning 
